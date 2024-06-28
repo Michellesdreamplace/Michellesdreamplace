@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at: dreamplace@my.mail.de
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There is a solution for pretty much everything, but finding it is sometimes not easy
+- 🌈 Never give up hope
 
 <!---
 Michellesdreamplace/Michellesdreamplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
