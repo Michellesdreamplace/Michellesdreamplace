@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michellesdreamplace, aka Michelle
-- 👀 I’m interested in ...
+- 👀 I'm interested in many programming languages
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking for a collaboration with heart people
 - 📫 You can reach me at: dreamplace@my.mail.de (please only in German)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: There is a solution for pretty much everything, but finding it is sometimes not easy
