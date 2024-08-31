@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michellesdreamplace, aka Michelle, aka Shelly
 - 👀 I'm interested in many programming languages
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# | Phyton | Shell/Bash
 - 💞️ I'm looking for a collaboration with heart people
 - 📫 You can reach me at: dreamplace@my.mail.de (please only in German)
 - 😄 Pronouns: she/her
